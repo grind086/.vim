@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/storage/emulated/0/Download/programming/game'
+let g:netrw_dirhist_2='/storage/emulated/0/Download/programming/game/src'
+let g:netrw_dirhist_3='/storage/emulated/0/Download/programming/game'
+let g:netrw_dirhist_4='/storage/emulated/0/Download/programming/game/src'
+let g:netrw_dirhist_5='/storage/emulated/0/Download/programming/game'
+let g:netrw_dirhist_6='/storage/emulated/0/Download/programming/game/src'
+let g:netrw_dirhist_7='/storage/emulated/0/Download/programming/game'
+let g:netrw_dirhist_8='/storage/emulated/0/Download/programming/game/src'
+let g:netrw_dirhist_9='/storage/emulated/0/Download/programming/game'
